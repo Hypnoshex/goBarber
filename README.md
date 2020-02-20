@@ -1,2 +1,0 @@
-# goBarber
-Aplicação do goStack
